@@ -21,6 +21,15 @@ Gói cập nhật chỉ thay mã ứng dụng trong `resources/app`, giữ nguy�
 
 Bản 1.1.0 chưa có tự cập nhật nên cần chạy bộ cài 1.2.0 một lần.
 
+
+## Bản Thanh Voice Studio
+
+[Tải Thanh-Voice-Studio-1.2.0-Setup.exe](https://github.com/Taikoljmjjk/voice-tai-le/releases/download/v1.2.0/Thanh-Voice-Studio-1.2.0-Setup.exe)
+
+Bản Thanh Voice Studio giữ tên và thông tin nhà phát triển Lê Xuân Thanh — Trung tâm Dịch vụ tổng hợp xã Lê Lợi — 0926.251.358. Cài vào thư mục riêng với Tài Lê MMO. Đã dùng Thanh Voice 1.1.0: đóng ứng dụng rồi chạy bộ cài này và chọn đúng thư mục cũ để bật tự cập nhật.
+
+Kênh Thanh Voice dùng `update-manifest-thanh-voice.json`, gói `Thanh-Voice-Studio-1.2.0-app.zip` và kiểm tra danh tính `thanh-voice-studio`. Kênh Tài Lê MMO tiếp tục dùng `update-manifest.json`; hai sản phẩm không đổi tên khi cập nhật. Chọn đường dẫn không dấu để dùng Kokoro.
+
 ## Tệp phát hành
 
 - `Tai-Le-MMO-1.2.0-Setup.exe`: bộ cài nhỏ, tự tải dữ liệu cho lần cài mới.
